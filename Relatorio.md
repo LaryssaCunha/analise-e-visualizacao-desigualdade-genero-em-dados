@@ -2,7 +2,7 @@
 
  O relatório é baseado conforme as informações obtidas através dos dados coletados. A maior parte desses dados eram textuais, gerando uma análise exploratória fundamental para o entendimento das experiências profissionais das mulheres na área de dados entre os anos de 2022 e 2023.
 
-## Primeira parte da análise exploratória
+## Análise exploratória
 
 Através da biblioteca matplotlib, foram gerados dois gráficos no arquivo 'tratamento-dados.ipynb'.
 
